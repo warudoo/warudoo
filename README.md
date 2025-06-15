@@ -21,7 +21,7 @@
 
 - 💬 Ask me about my learning journey or basic Python concepts!
 
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 How to reach me: **[muhammadsalwarud.com](mailto:muhammadsalwarud.com)**
 
 ---
 
