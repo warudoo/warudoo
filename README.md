@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Warudo 👋</h1>
+<h1 align="center">Hi there, I'm Warud 👋</h1>
 <h3 align="center">An Informatics student from Indonesia on a mission to become a world-class developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warudoo&label=Profile%20views&color=0e75b6&style=flat" alt="warudoo" /> </p>
