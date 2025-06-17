@@ -48,8 +48,5 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=warudoo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="warudoo's top languages" />
 </p>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=warudoo&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="warudoo's github stats" />
-</p>
 
 ---
