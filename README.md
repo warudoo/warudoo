@@ -46,7 +46,10 @@
 
 <h3 align="center">My GitHub Stats:</h3>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=warudoo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="warudoo's top languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=warudoo&show_icons=true&theme=tokyonight&count_private=true" alt="warudoo's github stats" />
+</p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=warudoo&layout=compact&theme=tokyonight" alt="warudoo's top languages" />
 </p>
 
 ---
