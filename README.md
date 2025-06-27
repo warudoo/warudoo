@@ -14,7 +14,7 @@ I am a passionate and driven software developer with a strong focus on backend d
 - 🌱 I am continuously deepening my knowledge in **Data Structures & Algorithms** and **System Design**.
 - 💡 I'm always excited to learn new technologies and improve my software engineering practices.
 - 👯 I’m open to collaborating on open-source projects, especially those involving Python or Java.
-- 📫 You can reach me at: **[muhammadsalwarud.com](mailto:muhammadsalwarud.com)**
+- 📫 You can reach me at: **[muhammadsalwarud@gmail.com](mailto:muhammadsalwarud.com)**
 
 ---
 
