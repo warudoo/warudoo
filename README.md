@@ -62,5 +62,5 @@ Feel free to connect with me on my professional networks.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhamad-salwarud/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamad-salwarud" height="30" width="40" /></a>
-  <a href="https://instagram.com/your-instagram-username" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[mhmadsalwarud_](https://www.instagram.com/mhmadsalwarud_/)" height="30" width="40" /></a>
+  <a href="https://instagram.com/mhmadsalwarud_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[mhmadsalwarud_](https://www.instagram.com/mhmadsalwarud_/)" height="30" width="40" /></a>
 </p>
