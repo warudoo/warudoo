@@ -41,6 +41,17 @@ My current tech stack includes, but is not limited to:
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
     </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
+    </a>
+</p>
+
+---
+
+### 📊 Languages I Use
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=warudoo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="warudoo's top languages" />
 </p>
 
 ---
